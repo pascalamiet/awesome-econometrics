@@ -7,6 +7,7 @@ If you want to contribute to this list (please do), open a pull request.
 
 - 🧑‍🎓 [Courses](src/courses)
   - [Machine Learning](src/courses/ml.md)
+  - [Mathematics](src/courses/maths.md)
 - 📖 [Books](src/books)
   - [Machine Learning](src/books/ml.md)
   - [Causal Inference](src/books/causal-inference.md)
