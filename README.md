@@ -5,5 +5,5 @@ If you want to contribute to this list (please do), open a pull request.
 
 ## Table of Contents
 
-- [🧑‍🎓 Courses](src/courses)
+- 🧑‍🎓 [Courses](src/courses)
   - [Machine Learning](src/courses/ml.md)
