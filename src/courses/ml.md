@@ -28,6 +28,12 @@ The following is a list of free courses in Machine Learning, sorted by format an
   - **Lectures**: 19 x 1h:20 [[Material](https://cs336.stanford.edu/)]
   - **Topics**: Transformers, Scaling, Inference, Alignment
 
+- [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
+  - **Author**: Chelsea Finn (Stanford)
+  - **Year**: Updated each year
+  - **Lectures**: 18 x 1h:00 [[Material](https://cs224r.stanford.edu/)]
+  - **Topics**: Policy Gradients, Q-Learning, Offline RL, RL for LLMs
+
 - [Mathematics of Data Science](https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL)
   - **Author**: Afonso Bandeira (ETH Zürich)
   - **Year**: 2021
