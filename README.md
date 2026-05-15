@@ -7,3 +7,5 @@ If you want to contribute to this list (please do), open a pull request.
 
 - 🧑‍🎓 [Courses](src/courses)
   - [Machine Learning](src/courses/ml.md)
+- 📖 [Books](src/books)
+  - [Machine Learning](src/books/ml.md)
