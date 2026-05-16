@@ -6,14 +6,14 @@ If you want to contribute to this list (please do), open a pull request.
 ## Table of Contents
 
 - 🧑‍🎓 [Courses](src/courses)
-  - [Econometrics](src/courses/econometrics.md)
-  - [Causal Inference](src/courses/causal-inference.md)
-  - [Statistics](src/courses/stats.md)
-  - [Machine Learning](src/courses/ml.md)
-  - [Mathematics](src/courses/maths.md)
+  – [Econometrics](src/courses/econometrics.md)
+  – [Causal Inference](src/courses/causal-inference.md)
+  – [Statistics](src/courses/stats.md)
+  – [Machine Learning](src/courses/ml.md)
+  – [Mathematics](src/courses/maths.md)
 
 - 📖 [Books](src/books)
-  - [Statistics](src/books/stats.md)
-  - [Causal Inference](src/books/causal-inference.md)
-  - [Machine Learning](src/books/ml.md)
-  - [Mathematics](src/books/maths.md)
+  – [Statistics](src/books/stats.md)
+  – [Causal Inference](src/books/causal-inference.md)
+  – [Machine Learning](src/books/ml.md)
+  – [Mathematics](src/books/maths.md)
