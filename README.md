@@ -5,18 +5,11 @@ If you want to contribute to this list (please do), open a pull request.
 
 ## Table of Contents
 
-- 🧑‍🎓 [Courses](src/courses)
-  - [Econometrics](src/courses/econometrics.md)
-  - [Causal Inference](src/courses/causal-inference.md)
-  - [Statistics](src/courses/stats.md)
-  - [Machine Learning](src/courses/ml.md)
-  - [Mathematics](src/courses/maths.md)
-
+- 🧑‍🎓 [Courses](src/courses.md)
+- 📖 [Books](src/books.md)
 - 📅 [Conferences](src/conferences.md)
 
-- 📖 [Books](src/books)
-  - [Econometrics](src/books/econometrics.md)
-  - [Causal Inference](src/books/causal-inference.md)
-  - [Statistics](src/books/stats.md)
-  - [Machine Learning](src/books/ml.md)
-  - [Mathematics](src/books/maths.md)
+- 🏫 [Summer Schools](src/summer-schools/summer-schools.md)
+  - [Econometrics & Applied Economics](src/summer-schools/summer-schools.md#econometrics--applied-economics)
+  - [Statistics & Bayesian Methods](src/summer-schools/summer-schools.md#statistics--bayesian-methods)
+  - [Machine Learning & AI](src/summer-schools/summer-schools.md#machine-learning--ai)
