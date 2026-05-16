@@ -16,6 +16,10 @@
   - **Author**: Judea Pearl & Dana Mackenzie
   - **Year**: 2018
 
+- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
+  - **Author**: Victor Chernozhukov, Christian Hansen, Nathan Kallus, Martin Spindler & Basilis Syrgkanis
+  - **Year**: 2026
+
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
   - **Author**: Scott Cunningham 
   - **Year**: 2021 

@@ -24,6 +24,10 @@
   - **Author**: Charu Agarwal
   - **Year**: 2026
 
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+  - **Author**: Marc Deisenroth, Aldo Faisal & Cheng Soon Ong 
+  - **Year**: 2024
+
 - [Measure Theory, Probability, and Stochastic Processes](https://link.springer.com/book/10.1007/978-3-031-14205-5)
   - **Author**: Jean-François LeGall
   - **Year**: 2022 
@@ -31,3 +35,7 @@
 - [Introduction to Probability](https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/book.html)
   - **Author**: Charles Grinstead & Laurie Snell
   - **Year**: 2006
+
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
+  - **Author**: Stephen Boyd & Lieven Vandenberghe
+  - **Year**: 2004

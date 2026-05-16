@@ -38,6 +38,10 @@ The following is a list of free courses in Econometrics, sorted by format and da
   - **Author**: Peter Hull (Brown University)
   - **Year**: 2025
 
+- [Econometrics](https://github.com/mcreel/Econometrics/blob/main/econometrics.pdf)
+  - **Author**: Michael Creel (UAB)
+  - **Year**: 2025
+
 - [Mixtape Sessions](https://github.com/Mixtape-Sessions/)
   - **Author**: Scott Cunningham (Baylor University)
   - **Year**: Frequently Updated

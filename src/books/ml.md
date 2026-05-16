@@ -8,6 +8,10 @@
   - **Author**: Trevor Hastie, Robert Tibshirani & Jerome Friedman 
   - **Year**: 2009
 
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+  - **Author**: Kevin Murphy 
+  - **Year**: 2022
+
 - [Deep Learning](https://www.deeplearningbook.org/)
   - **Author**: Ian Goodfellow, Yoshua Bengio & Aaron Courville
   - **Year**: 2016
