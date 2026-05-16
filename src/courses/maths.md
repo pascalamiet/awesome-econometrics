@@ -46,3 +46,7 @@
 - [Measure Theory](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT425_spring_2025/MAT425_Lecture_Notes.pdf)
   - **Author**: Jacob Shapiro (Princeton)
   - **Year**: 2025
+
+- [Probability Theory](https://metaphor.ethz.ch/x/2025/hs/401-3601-00L/main.pdf)
+  - **Author**: Vincent Tassion
+  - **Year**: 2025
