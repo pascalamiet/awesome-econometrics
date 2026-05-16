@@ -12,6 +12,8 @@ If you want to contribute to this list (please do), open a pull request.
   - [Machine Learning](src/courses/ml.md)
   - [Mathematics](src/courses/maths.md)
 
+- 📅 [Conferences](src/conferences.md)
+
 - 📖 [Books](src/books)
   - [Econometrics](src/books/econometrics.md)
   - [Causal Inference](src/books/causal-inference.md)
