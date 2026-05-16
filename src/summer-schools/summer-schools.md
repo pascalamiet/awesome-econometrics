@@ -15,6 +15,12 @@ Upcoming and recurring summer schools for PhD students and early-career research
   - **Location**: Cambridge, MA, USA
   - **Topics**: Applied econometrics, labor, health, finance, macro, trade; includes a dedicated *Frontier Econometric Methods* session (July 30, org. Andrews, Athey & Walters)
 
+- [CEMFI Summer School](https://www.cemfi.es/programs/css/index.asp)
+  - **Organizer**: Centro de Estudios Monetarios y Financieros (CEMFI)
+  - **Dates**: August 17 – September 4, 2026
+  - **Location**: Madrid, Spain
+  - **Topics**: One-week intensive courses for practitioners, central bankers, and academics; 2026 courses include Difference-in-Differences with Panel Data (Wooldridge), Data Science for Economics (Rauh), Dynamics & Heterogeneity in Panel Data (Bonhomme), High-Frequency Event Studies (Swanson), AI for Economic Measurement (Kazinnik)
+
 - [Barcelona GSE Summer School — Microeconometrics](https://bse.eu/summer-school/microeconometrics)
   - **Organizer**: Barcelona School of Economics
   - **Dates**: June 22 – July 17, 2026
