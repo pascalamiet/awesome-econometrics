@@ -1,6 +1,6 @@
 # Econometrics Books 
 
-- [Econometrics](https://press.princeton.edu/books/hardcover/9780691235899/econometrics)
+- [Econometrics](https://press.princeton.edu/books/hardcover/9780691235899/econometrics) (PAID)
   - **Author**: Bruce Hansen
   - **Year**: 2022
 
@@ -8,11 +8,11 @@
   - **Author**: Russell Davidson & James MacKinnon 
   - **Year**: 2021
 
-- [Econometrics](https://press.princeton.edu/books/hardcover/9780691010182/econometrics)
+- [Econometrics](https://press.princeton.edu/books/hardcover/9780691010182/econometrics) (PAID)
   - **Author**: Fumio Hayashi
   - **Year**: 2000
 
-- [Mostly Harmless Econoometrics](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics)
+- [Mostly Harmless Econometrics](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics) (PAID)
   - **Author**: Joshua Angrist & Jörn-Steffen Pischke
   - **Year**: 2009
 
@@ -20,7 +20,7 @@
   - **Author**: James Stock & Mark Watson 
   - **Year**: 2021 
 
-- [Machine Learning for Econometrics](https://academic.oup.com/book/60070?login=true)
+- [Machine Learning for Econometrics](https://academic.oup.com/book/60070?login=true) (PAID)
   - **Author**: Christophe Gaillac & Jérémy L'Hour 
   - **Year**: 2025
 

@@ -1,10 +1,10 @@
 # Statistics Books 
 
-- [Statistical Inference](https://www.amazon.com/Statistical-Inference-George-Casella/dp/8131503941)
+- [Statistical Inference](https://www.amazon.com/Statistical-Inference-George-Casella/dp/8131503941) (PAID)
   - **Author**: George Casella & Roger Berger
   - **Year**: 2001
 
-- [Mathematical Statistics and Data Analysis](https://books.google.ch/books/about/Mathematical_Statistics_and_Data_Analysi.html?id=KfkYAQAAIAAJ&redir_esc=y)
+- [Mathematical Statistics and Data Analysis](https://books.google.ch/books/about/Mathematical_Statistics_and_Data_Analysi.html?id=KfkYAQAAIAAJ&redir_esc=y) (PAID)
   - **Author**: John Rice 
   - **Year**: 2007
 
