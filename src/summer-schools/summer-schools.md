@@ -15,6 +15,12 @@ Upcoming and recurring summer schools for PhD students and early-career research
   - **Location**: Cambridge, MA, USA
   - **Topics**: Applied econometrics, labor, health, finance, macro, trade; includes a dedicated *Frontier Econometric Methods* session (July 30, org. Andrews, Athey & Walters)
 
+- [AI and Economics Summer Institute (AIE / MLESI)](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/opportunities/event---aiesi)
+  - **Organizer**: Center for Applied Artificial Intelligence, Chicago Booth
+  - **Dates**: August 6–11, 2026
+  - **Location**: University of Chicago, USA
+  - **Topics**: Machine learning and AI methods in economics; lectures, tutorials, and conference on current research; ~30 PhD students and post-docs admitted; costs fully covered
+
 - [CEMFI Summer School](https://www.cemfi.es/programs/css/index.asp)
   - **Organizer**: Centro de Estudios Monetarios y Financieros (CEMFI)
   - **Dates**: August 17 – September 4, 2026
