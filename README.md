@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), open a pull request.
   - [Mathematics](src/courses/maths.md)
 
 - 📖 [Books](src/books)
+  - [Statistics](src/books/stats.md)
   - [Causal Inference](src/books/causal-inference.md)
   - [Machine Learning](src/books/ml.md)
   - [Mathematics](src/books/maths.md)
