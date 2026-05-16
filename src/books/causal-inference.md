@@ -8,6 +8,14 @@
   - **Author**: Jonas Peters, Dominik Janzing & Bernhard Schölkopf 
   - **Year**: 2017 
 
+- [Causality](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B)
+  - **Author**: Judea Pearl
+  - **Year**: 2013
+
+- [The Book of Why](https://books.google.ch/books/about/The_Book_of_Why.html?id=EmY8DwAAQBAJ&redir_esc=y) (PAID)
+  - **Author**: Judea Pearl & Dana Mackenzie
+  - **Year**: 2018
+
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
   - **Author**: Scott Cunningham 
   - **Year**: 2021 
