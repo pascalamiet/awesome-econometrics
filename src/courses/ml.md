@@ -34,17 +34,17 @@ The following is a list of free courses in Machine Learning, sorted by format an
   - **Lectures**: 12 x 1h:20
   - **Topics**: Neural Networks, CNN, Computer Vision, RNN, NLP, GANs
 
-- [Large Language Models](https://huggingface.co/learn/llm-course/chapter0/1)
-  - **Author**: Huggingface 
-  - **Year**: 2021 
-  - **Lectures**: Various 
-  - **Topics**: Transformers, Fine-Tuning, Tokenizers, Sharing Models
-
 - [Language Modeling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV)
   - **Author**: Percy Liang & Tatsunori Hashimoto (Stanford)
   - **Year**: 2026
   - **Lectures**: 19 x 1h:20 [[Material](https://cs336.stanford.edu/)]
   - **Topics**: Transformers, Scaling, Inference, Alignment
+
+- [Large Language Models](https://huggingface.co/learn/llm-course/chapter0/1)
+  - **Author**: Huggingface 
+  - **Year**: 2021 
+  - **Lectures**: Various 
+  - **Topics**: Transformers, Fine-Tuning, Tokenizers, Sharing Models
 
 - [Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
   - **Author**: DeepMind x UCL (Various Speakers)
@@ -59,7 +59,7 @@ The following is a list of free courses in Machine Learning, sorted by format an
   - **Topics**: Policy Gradients, Q-Learning, Offline RL, RL for LLMs
 
 - [Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
-  - **Author**: Deep Reinforcement Learning 
+  - **Author**: Huggingface
   - **Year**: 2022 
   - **Lectures**: Various 
   - **Topics**: Q-Learning, Hyperparameter Tuning, Policy Gradients, Robotics Environments, Multiagents, Proximal Policy Optimization
