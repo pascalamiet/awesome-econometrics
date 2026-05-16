@@ -10,6 +10,3 @@ If you want to contribute to this list (please do), open a pull request.
 - 📅 [Conferences](src/conferences.md)
 
 - 🏫 [Summer Schools](src/summer-schools/summer-schools.md)
-  - [Econometrics & Applied Economics](src/summer-schools/summer-schools.md#econometrics--applied-economics)
-  - [Statistics & Bayesian Methods](src/summer-schools/summer-schools.md#statistics--bayesian-methods)
-  - [Machine Learning & AI](src/summer-schools/summer-schools.md#machine-learning--ai)
