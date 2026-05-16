@@ -15,3 +15,7 @@
 - [Statistical Rethinking](https://github.com/Booleans/statistical-rethinking/blob/master/Statistical%20Rethinking%202nd%20Edition.pdf)
   - **Author**: Richard McElreath
   - **Year**: 2019
+
+- [Weak Convergence and Empirical Processes](https://link.springer.com/book/10.1007/978-1-4757-2545-2)
+  - **Author**: Aad van der Vaart & Jon Wellner
+  - **Year**: 1996

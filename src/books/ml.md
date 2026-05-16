@@ -20,3 +20,10 @@
   - **Author**: Andrew Barto & Richard Sutton
   - **Year**: 2018
 
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+  - **Author**: Dan Jurafsky & James Martin 
+  - **Year**: 2026
+
+- [Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
+  - **Author**: Francis Bach 
+  - **Year**: 2025

@@ -61,4 +61,16 @@ The following is a list of free courses in Machine Learning, sorted by format an
 
 ## Slides
 
+- [Advanced Machine Learning](https://ml2.inf.ethz.ch/courses/aml/#resources)
+  - **Author**: Joachim Buhmann (ETH Zürich)
+  - **Year**: 2023
+
+- [Natural Language Processing](https://rycolab.io/classes/intro-nlp-f25/)
+  - **Author**: Ryan Cotterell (ETH Zürich)
+  - **Year**: 2025
+
+- [Guarantees in Machine Learning](https://sml.inf.ethz.ch/gml25/syllabus.html)
+  - **Author**: Fanny Yang (ETH Zürich)
+  - **Year**: 2025
+
 ## Notes
