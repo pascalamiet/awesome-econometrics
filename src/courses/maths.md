@@ -35,6 +35,10 @@
 
 ## Slides
 
+- [Introduction to Probability](https://ocw.mit.edu/courses/14-381-statistical-method-in-economics-fall-2018/)
+  - **Author**: John Tsitsiklis & Patrick Jaillet (MIT)
+  - **Year**: 2018
+
 ## Notes
 
 - [Analysis I: One Variable](https://metaphor.ethz.ch/x/2025/hs/401-1261-07L/sc/Analysis_1___D_MATH___ETH.pdf#page=5)

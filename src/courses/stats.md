@@ -20,6 +20,10 @@
 
 ## Slides
 
+- [Mathematical Statistics](https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/)
+  - **Author**: Peter Kempthorne (MIT)
+  - **Year**: 2016
+
 - [Empirical Process Theory and Applications](https://metaphor.ethz.ch/x/2025/hs/401-4627-00L/)
   - **Author**: Yuansi Chen (ETH Zürich)
   - **Year**: 2025

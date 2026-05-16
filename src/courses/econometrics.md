@@ -30,19 +30,29 @@ The following is a list of free courses in Econometrics, sorted by format and da
 
 ## Slides
 
-- [Graduate Applied Econometrics](https://about.peterhull.net/metrix)
-  - **Author**: Peter Hull (Brown University)
-  - **Year**: 2025
-  - **Topics**: Regression Recap, Selection on Observables, Parallel Trends, Negative Weights, Clustering, IV Mechanics, IV Identification, RDD
-
-## Notes
-
-- [Econometrics Lecture Notes (14.382)](https://ocw.mit.edu/courses/14-382-econometrics-spring-2017/pages/lecture-notes/)
-  - **Author**: Victor Chernozhukov & Anna Mikusheva (MIT)
-  - **Year**: 2017
-  - **Topics**: OLS, Adaptive Partialling Out, Simultaneous Inference, Linear Panel Data, IV, GMM, Quantile Regression
-
 - [Topics in Econometrics](https://maxkasy.github.io/home/Topics_Econometrics_Oxford_2024/)
   - **Author**: Maximilian Kasy (Oxford)
   - **Year**: 2024
-  - **Topics**: Granular IV, Robust Bayesian Inference, Panel Data, Causal Inference, ML Methods
+
+- [Graduate Applied Econometrics](https://about.peterhull.net/metrix)
+  - **Author**: Peter Hull (Brown University)
+  - **Year**: 2025
+
+- [Mixtape Sessions](https://github.com/Mixtape-Sessions/)
+  - **Author**: Scott Cunningham (Baylor University)
+  - **Year**: Frequently Updated
+
+## Notes
+
+- [Econometrics](https://ocw.mit.edu/courses/14-382-econometrics-spring-2017/pages/lecture-notes/)
+  - **Author**: Victor Chernozhukov (MIT)
+  - **Year**: 2017
+
+- [Nonlinear Econometric Analysis](https://ocw.mit.edu/courses/14-385-nonlinear-econometric-analysis-fall-2007/)
+  - **Author**: Victor Chernozhukov & Withney Newey (MIT)
+  - **Year**: 2007
+
+- [Time Series Analysis](https://ocw.mit.edu/courses/14-384-time-series-analysis-fall-2013/)
+  - **Author**: Anna Mikusheva (MIT)
+  - **Year**: 2013 
+
