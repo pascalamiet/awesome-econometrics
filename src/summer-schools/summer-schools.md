@@ -159,6 +159,12 @@ Upcoming and recurring summer schools for PhD students and early-career research
   - **Location**: Canada
   - **Topics**: Deep learning, reinforcement learning, foundational AI; successor to the DLRL Summer School
 
+- [MLAS — Machine Learning and Advanced Statistics Summer School](https://cig.fi.upm.es/mlas/)
+  - **Organizer**: Computational Intelligence Group, Universidad Politécnica de Madrid
+  - **Dates**: June 8–19, 2026 (two one-week modules)
+  - **Location**: UPM Montegancedo Campus, Madrid, Spain
+  - **Topics**: Bayesian networks, supervised classification, deep learning, reinforcement learning, Bayesian inference, causality, clustering, Gaussian processes & Bayesian optimization, explainable ML, generative AI, AI in biomedicine; 12 courses of 15 h each
+
 - [Deep Learning for Science School (DL4SCI) 2026](https://dl4sci-school.lbl.gov/)
   - **Organizer**: Lawrence Berkeley National Laboratory / NERSC
   - **Dates**: Summer 2026 (five days)
