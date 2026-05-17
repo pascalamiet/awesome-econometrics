@@ -5,8 +5,10 @@ If you want to contribute to this list (please do), open a pull request.
 
 ## Table of Contents
 
-- 🧑‍🎓 [Courses](src/courses.md)
-- 📖 [Books](src/books.md)
 - 📅 [Conferences](src/conferences.md)
 
 - 🏫 [Summer Schools](src/summer-schools/summer-schools.md)
+
+- 🧑‍🎓 [Courses](src/courses.md)
+
+- 📖 [Books](src/books.md)
