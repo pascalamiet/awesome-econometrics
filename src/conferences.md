@@ -12,6 +12,8 @@ Upcoming and recent conferences in Econometrics, Statistics, and Machine Learnin
 
 | Conference | Dates | Location | Link |
 |---|---|---|---|
+| Zurich Workshop in AI & Applied Economics | Sep 11–12, 2026 | Zurich, Switzerland | [lawecon.ethz.ch](https://lawecon.ethz.ch/conferences-workshops/workshop-in-ai-and-economics.html) |
+| Causal Data Science Meeting (CDSM) | Nov 2026 (annual; 2025: Nov 12–13) | Online | [causalscience.org](https://www.causalscience.org/) |
 | ES North American Winter Meeting (NAWM) | Jan 3–5, 2026 | Philadelphia, PA | [econometricsociety.org](https://www.econometricsociety.org/regional-activities/schedule/2026/01/03/2026-North-American-Winter-Meeting-Philadelphia-PA) |
 | ES North American Summer Meeting (NASM) | Jun 4–7, 2026 | Atlanta, GA | [economics.emory.edu](https://economics.emory.edu/nasmes-2026/index.html) |
 | EcoSta 2026 | Aug 7–10, 2026 | Kyoto, Japan | [cmstatistics.org](https://www.cmstatistics.org/EcoSta2026/) |
