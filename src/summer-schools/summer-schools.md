@@ -9,6 +9,12 @@ Upcoming and recurring summer schools for PhD students and early-career research
 
 ## Econometrics & Applied Economics
 
+- [EuADS Summer School 2026](https://www.euads.org/summer-school-2026/)
+  - **Organizer**: European Association for Data Science (EuADS)
+  - **Dates**: July 6–8, 2026
+  - **Location**: Luxembourg
+  - **Topics**: Data science meets economics; aimed at advanced PhD students, postdocs, and early-career researchers with grounding in data science, machine learning, and/or statistics
+
 - [NBER Summer Institute](https://www.nber.org/conferences/summer-institute-2026)
   - **Organizer**: National Bureau of Economic Research
   - **Dates**: July 13–31, 2026
