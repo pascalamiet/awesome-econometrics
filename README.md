@@ -9,6 +9,8 @@ If you want to contribute to this list (please do), open a pull request.
 
 - 🏫 [Summer Schools](src/summer-schools/summer-schools.md)
 
+- 💻 [Software Packages](src/software-packages.md)
+
 - 🧑‍🎓 [Courses](src/courses.md)
 
 - 📖 [Books](src/books.md)
