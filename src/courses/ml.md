@@ -35,7 +35,7 @@ The following is a list of free courses in Machine Learning, sorted by format an
   - **Topics**: Transformers, Scaling, Inference, Alignment
 
 - [Transformers and Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
-  - **Author**: Afshine Amidi & Shervine Amidi 
+  - **Author**: Afshine Amidi & Shervine Amidi (Stanford)
   - **Year**: 2025 
   - **Lectures**: 9 x 1h:50 [[Material](https://cme295.stanford.edu/syllabus/)]
   - **Topics**: LLMs, Training, Tuning, Reasoning, Agentic LLMs, Current Trends
