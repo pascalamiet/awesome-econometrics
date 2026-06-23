@@ -27,3 +27,7 @@
 - [Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
   - **Author**: Francis Bach 
   - **Year**: 2025
+
+- [Introduction to Machine Learning](https://arxiv.org/pdf/2409.02668)
+  - **Author**: Laurent Younes
+  - **Year**: 2025
