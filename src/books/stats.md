@@ -19,3 +19,7 @@
 - [Weak Convergence and Empirical Processes](https://link.springer.com/book/10.1007/978-1-4757-2545-2)
   - **Author**: Aad van der Vaart & Jon Wellner
   - **Year**: 1996
+
+- [High-Dimensional Statistics](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)
+  - **Author**: Martin Wainwright
+  - **Year**: 2019
