@@ -80,3 +80,7 @@ The following is a list of free courses in Machine Learning, sorted by format an
   - **Year**: 2025
 
 ## Notes
+
+- [Sparse Autoencoders](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf)
+  - **Author**: Andrew Ng 
+  - **Year**: 2011 
