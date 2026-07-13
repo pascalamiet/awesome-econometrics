@@ -20,6 +20,7 @@ Upcoming and recent conferences in Econometrics, Statistics, and Machine Learnin
 | EcoSta 2026 | Aug 7–10, 2026 | Kyoto, Japan | [cmstatistics.org](https://www.cmstatistics.org/EcoSta2026/) |
 | EEA-ESEM 2026 | Aug 17–21, 2026 | Dublin, Ireland | [eea-esem-congresses.org](https://www.eea-esem-congresses.org/) |
 | European Causal Inference Meeting (EuroCIM) | Apr 14–17, 2026 | Oxford, UK | [eurocim.org](https://eurocim.org/oxford-2026/) |
+| European Causal Inference Meeting (EuroCIM) | Apr 14–16, 2027 | Paris, France | [eurocim.org](https://eurocim.org/paris-2027/) |
 | CIML — Frontiers of Causal Inference & Machine Learning | Apr 22–24, 2026 | Lucca, Italy | [cimlconference.imtlucca.it](https://cimlconference.imtlucca.it/) |
 | IAAE 2026 | Jun 23–25, 2026 | Carcavelos, Portugal | [iaae2026.pages.dev](https://iaae2026.pages.dev/) |
 | CEF 2026 — Computing in Economics and Finance | Jun 29–Jul 1, 2026 | Venice, Italy | [comp-econ.com](https://comp-econ.com/32nd-cef-conference/) |
