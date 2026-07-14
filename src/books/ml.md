@@ -16,6 +16,10 @@
   - **Author**: Ian Goodfellow, Yoshua Bengio & Aaron Courville
   - **Year**: 2016
 
+- [Dive into Deep Learning](https://d2l.ai/)
+  - **Author**: Aston Zhang, Zachary C. Lipton, Mu Li & Alexander J. Smola
+  - **Year**: 2023
+
 - [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book.html)
   - **Author**: Andrew Barto & Richard Sutton
   - **Year**: 2018

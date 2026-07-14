@@ -20,6 +20,10 @@
   - **Author**: Sheldon Axler 
   - **Year**: 2026 
 
+- [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
+  - **Author**: Gilbert Strang
+  - **Year**: 2023
+
 - [Linear Algebra and Optimization for Machine Learning](https://link.springer.com/book/10.1007/978-3-031-98619-2) 
   - **Author**: Charu Agarwal
   - **Year**: 2026
@@ -36,6 +40,14 @@
   - **Author**: Charles Grinstead & Laurie Snell
   - **Year**: 2006
 
+- [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit)
+  - **Author**: Joseph K. Blitzstein & Jessica Hwang
+  - **Year**: 2019
+
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
   - **Author**: Stephen Boyd & Lieven Vandenberghe
   - **Year**: 2004
+
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_textbook.pdf)
+  - **Author**: Eric Lehman, F. Thomson Leighton & Albert R. Meyer
+  - **Year**: 2015
