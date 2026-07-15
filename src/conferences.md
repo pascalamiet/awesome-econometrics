@@ -26,6 +26,8 @@ Upcoming and recent conferences in Econometrics, Statistics, and Machine Learnin
 | CEF 2026 — Computing in Economics and Finance | Jun 29–Jul 1, 2026 | Venice, Italy | [comp-econ.com](https://comp-econ.com/32nd-cef-conference/) |
 | ES European Winter Meeting | Dec 2–4, 2026 | Warsaw, Poland | [econometricsociety.org](https://www.econometricsociety.org/regional-activities/schedule/2026/12/02/2026-European-Winter-Meeting-Warsaw-Poland) |
 | EC² 2026 | Dec 11–12, 2026 | Aarhus, Denmark | [econ.au.dk](https://econ.au.dk/ace/activities/ec2) |
+| International Panel Data Conference (IPDC) 2026 | Jul 6–7, 2026 | Exeter, UK | [sites.exeter.ac.uk](https://sites.exeter.ac.uk/ipdc2026/) |
+| International Panel Data Conference (IPDC) 2027 | Jun 28–29, 2027 | Santander, Spain | [sites.exeter.ac.uk](https://sites.exeter.ac.uk/ipdc2026/) |
 
 ## Statistics
 
