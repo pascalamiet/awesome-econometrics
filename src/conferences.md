@@ -26,6 +26,7 @@ Upcoming and recent conferences in Econometrics, Statistics, and Machine Learnin
 | CEF 2026 — Computing in Economics and Finance | Jun 29–Jul 1, 2026 | Venice, Italy | [comp-econ.com](https://comp-econ.com/32nd-cef-conference/) |
 | ES European Winter Meeting | Dec 2–4, 2026 | Warsaw, Poland | [econometricsociety.org](https://www.econometricsociety.org/regional-activities/schedule/2026/12/02/2026-European-Winter-Meeting-Warsaw-Poland) |
 | EC² 2026 | Dec 11–12, 2026 | Aarhus, Denmark | [econ.au.dk](https://econ.au.dk/ace/activities/ec2) |
+| Bristol Econometrics Study Group Conference | Jul 8-10, 2028 | Bristol, UK | [econometricsstudygroup.org](https://www.econometricstudygroup.org/) |
 | International Panel Data Conference (IPDC) 2026 | Jul 6–7, 2026 | Exeter, UK | [sites.exeter.ac.uk](https://sites.exeter.ac.uk/ipdc2026/) |
 | International Panel Data Conference (IPDC) 2027 | Jun 28–29, 2027 | Santander, Spain | [sites.exeter.ac.uk](https://sites.exeter.ac.uk/ipdc2026/) |
 
@@ -41,6 +42,7 @@ Upcoming and recent conferences in Econometrics, Statistics, and Machine Learnin
 | Conference | Dates | Location | Link |
 |---|---|---|---|
 | NeurIPS 2025 | Dec 2–7, 2025 | San Diego, CA | [neurips.cc](https://neurips.cc/Conferences/2025) |
+| NeurIPS 2026 | Dec 6–12, 2026 | Sydney, Australia | [neurips.cc](https://neurips.cc/Conferences/2026) |
 | ICLR 2026 | Apr 23–27, 2026 | Rio de Janeiro, Brazil | [iclr.cc](https://iclr.cc/) |
 | AISTATS 2026 | May 2–5, 2026 | Agadir, Morocco | [aistats.org](https://virtual.aistats.org/Conferences/2026) |
 | CVPR 2026 | Jun 3–7, 2026 | Denver, CO | [cvpr.thecvf.com](https://cvpr.thecvf.com/Conferences/2026) |
