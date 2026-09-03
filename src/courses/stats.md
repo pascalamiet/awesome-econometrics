@@ -37,3 +37,23 @@
 - [Computational Statistics](https://people.math.ethz.ch/~jopeters/jonas_files/sk.pdf)
   - **Author**: Peter Bühlmann, Martin Mächler & Nicolai Meinhausen (ETH Zürich)
   - **Year**: 2023
+
+- [A Gentle Introduction to Empirical Process Theory and Applications](https://sites.stat.columbia.edu/bodhi/Talks/Emp-Proc-Lecture-Notes.pdf)
+  - **Author**: Bodhisattva Sen (Columbia)
+  - **Year**: 2022
+
+- [Introduction to Nonparametric Statistics](https://sites.stat.columbia.edu/bodhi/Talks/Intro&NP-Stat.pdf)
+  - **Author**: Bodhisattva Sen (Columbia)
+  - **Year**: 2020
+
+- [Theoretical Statistics (PhD-Level)](https://sites.stat.columbia.edu/bodhi/Talks/Theo-Stat-II.pdf)
+  - **Author**: Bodhisattva Sen (Columbia)
+  - **Year**: 2021
+
+- [Empirical Bayes](https://nignatiadis.github.io/assets/lecture_notes/Empirical-Bayes.pdf)
+  - **Author**: Bodhisattva Sen (Columbia)
+  - **Year**: 2025
+
+- [Semiparametric Statistics](https://sites.stat.columbia.edu/bodhi/Talks/SPThNotes.pdf)
+  - **Author**: Bodhisattva Sen (Columbia)
+  - **Year**: 2018
