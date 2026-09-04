@@ -8,6 +8,10 @@
   - **Author**: John Rice 
   - **Year**: 2007
 
+- [Testing Statistical Hypotheses](https://sites.stat.washington.edu/jaw/COURSES/580s/582/HO/Lehmann_and_Romano-TestingStatisticalHypotheses.pdf)
+  - **Author**: E. Lehmann & Joseph Romano 
+  - **Year**: 2005
+  
 - [Computer Age Statistical Inference](https://hastie.su.domains/CASI/)
   - **Author**: Bradley Efron & Trevor Hastie 
   - **Year**: 2016
